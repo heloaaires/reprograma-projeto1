@@ -5,8 +5,6 @@ const listarLivrosOrdenados = require('./controllers/listarLivrosOrdenados')
 const listarRecomendados = require('./controllers/listarRecomendados')
 
 
-
-
 const resposta = read.question(`
 ====================== Menu ========================
 1 - CATEGORIA: Buscar livro por categoria
